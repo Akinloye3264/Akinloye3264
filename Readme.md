@@ -18,7 +18,7 @@ Outside of coding, I’m deeply interested in **art, culture, urbanization, and 
 ## 🛠 Skills & Technologies
 
 **Languages:**
-Python, JavaScript, HTML, CSS
+Python, JavaScript, HTML, CSS, R, Database
 
 **Frameworks & Tools:**
 Node.js, Express.js, Pandas, Git, Bootstrap
